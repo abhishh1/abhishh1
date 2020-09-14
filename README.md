@@ -1,5 +1,5 @@
 ### Sup? I'm [Abhishvek](https://www.youtube.com/channel/UCIxJGxcB4pSrIvuv8FyuqUA?view_as=subscriber). A grumpy programmer, may byte.
-**I am an AWS Solutions Architect,Flutter Developer and Kaggle Competitor Novice**
+>**I am an AWS Solutions Architect,Flutter Developer and Kaggle Competitor Novice**
 - 🔭 I’m currently working on Twitch Clone with Flutter
 - 🌱 I’m currently learning **Dynamic Programming**
 - 💬 Ask me about procrastinating workflows and mobile development
@@ -13,7 +13,7 @@
 - ⚡ Not a Fun fact: **I have a few facts about unemployed people, but none of them work**
 
 
-**Well..Let's jump on the repo now?**
+>**Well..Let's jump on the repo now?**
 
 <!--
 **abhishh1/abhishh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
