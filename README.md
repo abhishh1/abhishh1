@@ -5,7 +5,9 @@
 - 💬 Ask me about procrastinating workflows and mobile development
 - ⚡ Not a Fun fact: **I have a few facts about unemployed people, but none of them work**
 
-> **I can code over** <img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png' width='30px'><img src='https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg' width='30px'> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQj2noMOfz2H5Jl-AM5XWyHUJ8DY50DciBRkQ&usqp=CAU' width='30px'> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsX11JXc7T0u3DqoJKEZXx_oRm5omDVPYcJQ&usqp=CAU' width='30px'> <img src='https://cloud.google.com/images/social-icon-google-cloud-1200-630.png' width='30px'>
+> **I can code over**
+
+<img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png' width='30px'><img src='https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg' width='30px'> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQj2noMOfz2H5Jl-AM5XWyHUJ8DY50DciBRkQ&usqp=CAU' width='30px'> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsX11JXc7T0u3DqoJKEZXx_oRm5omDVPYcJQ&usqp=CAU' width='30px'> <img src='https://cloud.google.com/images/social-icon-google-cloud-1200-630.png' width='30px'>
 
 > **I do socialize through** 
 
