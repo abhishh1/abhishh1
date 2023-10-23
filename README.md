@@ -1,6 +1,6 @@
 I'm [Abhishvek](https://www.youtube.com/channel/UCIxJGxcB4pSrIvuv8FyuqUA?view_as=subscriber). 
 >**I am an AWS Solutions Architect and Full Stack Developer
-- 🔭 I’m CTO at [Tez](https://teznow.com/)
+- 🔭 Ex CTO at [Tez](https://teznow.com/)
 - 💬 Ask me about mobile development and backend development
 
 <!--
